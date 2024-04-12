@@ -155,6 +155,7 @@ main hr {
     color: white;
     text-align: center;
     padding: 20px 0;
+    border-top: 1px solid rgb(51, 51, 51);
 }
 .footer-container {
     display: flex;
